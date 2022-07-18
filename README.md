@@ -1,6 +1,6 @@
 # Tindog_website
 
-This is an practice Assignment in which a simple static web page is created which displays a dating site for Dogs similar to Tinder!
+This is an practice Assignment in which a simple static web page deployed on Netlify is created which displays a dating site for Dogs similar to Tinder!
 
 Images are attached for reference & download purpose as well in images folder.
 
